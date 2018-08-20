@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1049103098858",
+    "firebase_url": "https://admobtest-30a8c.firebaseio.com",
+    "project_id": "admobtest-30a8c",
+    "storage_bucket": "admobtest-30a8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049103098858:android:781386574495e241",
+        "android_client_info": {
+          "package_name": "firebasedynamiclink.jack.com.admobexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049103098858-ta32f90m9kj6iudv721v9h05alalvv8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebasedynamiclink.jack.com.admobexample",
+            "certificate_hash": "aee5f8b1a34a3ac47eba01ac5f6d124452dccb05"
+          }
+        },
+        {
+          "client_id": "1049103098858-ocomphq0i27492j0qhril6j9g5up9sd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa4FjughRVH16bbma6ymQLir6KZBnTCeY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049103098858-ocomphq0i27492j0qhril6j9g5up9sd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-6251629544760523~1125423145"
+    }
+  ],
+  "configuration_version": "1"
+}

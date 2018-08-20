@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdMobExample</string>
+    <string name="app_id">ca-app-pub-6251629544760523~1125423145</string>
+    <string name="interstitial_full_screen_ad">ca-app-pub-6251629544760523/1518741592</string>
+</resources>
